@@ -24,6 +24,6 @@
 <h3> My contribution status </h3>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehrdad-dev&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+![mehrdad mogammadian's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehrdad-dev&show_icons=true&theme=flag-india&border_radius=25)
 </div>
 
-![mehrdad mogammadian's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehrdad-dev&show_icons=true&theme=radical)
