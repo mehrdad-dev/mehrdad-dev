@@ -25,5 +25,3 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehrdad-dev&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 </div>
-
-![](https://komarev.com/ghpvc/?username=mehrdad-dev&style=flat-square&logo=github&label=Views&color=000000)
