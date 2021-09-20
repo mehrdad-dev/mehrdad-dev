@@ -26,4 +26,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehrdad-dev&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 </div>
 
-![mehrdad mogammadian's GitHub stats](https://github-readme-stats.vercel.app/api?mehrdad-dev=anuraghazra&show_icons=true&theme=radical)
+![mehrdad mogammadian's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehrdad-dev&show_icons=true&theme=radical)
