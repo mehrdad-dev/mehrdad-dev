@@ -13,12 +13,12 @@
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <h3> Contact me </h3>
 <a href="https://twitter.com/mehrdad_dev"> <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" /> </a>
 <a href="https://www.linkedin.com/in/mehrdad-mohammadian-/"><img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" /></a>
 <a href="https://www.instagram.com/mehrdad.dev"><img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" /></a>	
-</div>
+</div> -->
 
 <div align="center">
 <h3> My contribution status </h3>
