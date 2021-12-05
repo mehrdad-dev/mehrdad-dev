@@ -4,21 +4,22 @@
 
 <div align="center">
 <h3> Tools that I try to learn & use ... </h3>
-<img title="Python" alt="Python" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/python.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/cplusplus.svg" alt="cplusplus" width="40" height="40"/>	
-<img src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/tensorflow.svg" alt="tensorflow" width="40" height="40"/>	
-<img src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/matlab.png" alt="matlab" width="40" height="40"/>	
- <img src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/sklearn.svg" alt="scikit_learn" width="40" height="40"/>	
-<img src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/git.svg" alt="git" width="40" height="40"/>
-<img title="linux" alt="linux" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/linux.svg" width="40" />
+<img title="Python" alt="Python mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/python.svg" width="40" height="40" />
+<img alt="cplusplus mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/cplusplus.svg" width="40" height="40"/>	
+<img alt="tensorflow mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/tensorflow.svg" width="40" height="40"/>	
+<img alt="matlab mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/matlab.png" width="40" height="40"/>	
+<img alt="scikit learn mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/sklearn.svg" width="40" height="40"/>	
+<img alt="git mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/git.svg" width="40" height="40"/>
+<img title="linux" alt="linux mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/linux.svg" width="40" />
 </div>
 
-<!-- <div align="center">
+<div align="center">
 <h3> Contact me </h3>
-<a href="https://twitter.com/mehrdad_dev"> <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" /> </a>
-<a href="https://www.linkedin.com/in/mehrdad-mohammadian-/"><img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" /></a>
-<a href="https://www.instagram.com/mehrdad.dev"><img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" /></a>	
-</div> -->
+<a href="https://www.linkedin.com/in/mehrdad-mohammadian-/"> <img alt="mehrdad mohammadian linkedin" width="35px" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/linkedin.png" /></a>
+<a href="https://www.instagram.com/mehrdad.dev"><img alt="mehrdad mohammadian instagram" width="35px" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/instagram.png" /></a>	
+<a href="https://twitter.com/mehrdad_dev"> <img alt="mehrdad mohammadian twitter" width="35px" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/twitter.png" /> </a> 
+<a href="https://mehrdad.dev.ir"><img alt="mehrdad mohammadian pesonal website resume cv" width="35px" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/website.png" /></a>	 
+</div>
 
 <div align="center">
 <h3> My contribution status </h3>
