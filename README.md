@@ -4,13 +4,13 @@
 
 <div align="center">
 <h3> Tools that I try to learn & use ... </h3>
-<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>	
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>	
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>	
- <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>	
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
+<img title="Python" alt="Python" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/python.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/cplusplus.svg" alt="cplusplus" width="40" height="40"/>	
+<img src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/tensorflow.svg" alt="tensorflow" width="40" height="40"/>	
+<img src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/matlab.png" alt="matlab" width="40" height="40"/>	
+ <img src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/sklearn.svg" alt="scikit_learn" width="40" height="40"/>	
+<img src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/git.svg" alt="git" width="40" height="40"/>
+<img title="linux" alt="linux" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/linux.svg" width="40" />
 </div>
 
 <!-- <div align="center">
