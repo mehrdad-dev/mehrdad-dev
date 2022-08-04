@@ -17,7 +17,6 @@
 <h3> Contact me </h3>
 <a href="https://www.linkedin.com/in/mehrdad-mohammadian-/"> <img alt="mehrdad mohammadian linkedin" width="35px" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/linkedin.png" /></a>
 <a href="https://www.instagram.com/mehrdad.dev"><img alt="mehrdad mohammadian instagram" width="35px" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/instagram.png" /></a>	
-<a href="https://twitter.com/mehrdad_dev"> <img alt="mehrdad mohammadian twitter" width="35px" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/twitter.png" /> </a> 
 <a href="https://mehrdad-dev.ir"><img alt="mehrdad mohammadian pesonal website resume cv" width="35px" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/website.png" /></a>	 
 </div>
 
@@ -28,3 +27,5 @@
 ![mehrdad mogammadian's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehrdad-dev&show_icons=true&theme=flag-india&border_radius=25)
 </div>
 
+
+<!-- <a href="https://twitter.com/mehrdad_dev"> <img alt="mehrdad mohammadian twitter" width="35px" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/twitter.png" /> </a> -->
