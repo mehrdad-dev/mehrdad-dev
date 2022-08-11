@@ -21,7 +21,7 @@
 <a href="https://mehrdad-dev.ir"><img alt="mehrdad mohammadian pesonal website resume cv" width="25"  height="25"  src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/www.png" /></a>	 
 </div>
 
-<div align="center">
+<div align="left">
 <h3> My contribution status </h3>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehrdad-dev&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
