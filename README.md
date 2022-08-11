@@ -24,11 +24,14 @@
 <div align="left">
 <h3> My contribution status </h3>
   
+<img alt="mehrdad mohammadian" height="137"  src="https://github-readme-stats.vercel.app/api?username=mehrdad-dev&show_icons=true&theme=flag-india&border_radius=25" />
+<img alt="mehrdad mohammadian" height="137"  src="https://github-readme-streak-stats.herokuapp.com?user=mehrdad-dev&hide_border=true&fire=DD2727" /> 
+
+</div>
+
+<!--
 ![mehrdad mogammadian's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehrdad-dev&show_icons=true&theme=flag-india&border_radius=25)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehrdad-dev&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 
-</div>
-
-
-<!-- <a href="https://twitter.com/mehrdad_dev"> <img alt="mehrdad mohammadian twitter" width="35px" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/twitter.png" /> </a> -->
+ <a href="https://twitter.com/mehrdad_dev"> <img alt="mehrdad mohammadian twitter" width="35px" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/twitter.png" /> </a> -->
