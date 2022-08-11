@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/mehrdad-mohammadian-/"> <img alt="mehrdad mohammadian linkedin" width="25"  height="25" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/linkedin.png" /></a>
 <a href="https://www.instagram.com/mehrdad.dev"><img alt="mehrdad mohammadian instagram" width="25"  height="25"  src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/instagram.png" /></a>	
 <a href="https://mehrdad-dev.ir"><img alt="mehrdad mohammadian pesonal website resume cv" width="25"  height="25"  src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/www.png" /></a>	 
-<a href="https://mehrdad-dev.ir"><img alt="mehrdad mohammadian email address" width="25"  height="30"  src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/email.png" /></a>	 
+<a href="https://mehrdad-dev.ir"><img alt="mehrdad mohammadian email address" width="27"  height="31"  src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/email.png" /></a>	 
 </div>
 
 <div align="left">
