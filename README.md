@@ -3,7 +3,7 @@
 </h1>
 
 <div align="left">
-<h3> Tools that I try to learn & use:
+<h3> Tools that I try to learn & use:  </h3>
 <img title="Python" alt="Python mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/python.svg" width="30" height="30" />
 <img alt="cplusplus mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/cplusplus.svg" width="30" height="30"/>	
 <img alt="tensorflow mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/tensorflow.svg" width="30" height="30"/>	
@@ -11,15 +11,14 @@
 <img alt="scikit learn mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/sklearn.svg" width="30" height="30"/>	
 <img alt="git mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/git.svg" width="30" height="30"/>
 <img title="linux" alt="linux mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/linux.svg" width="30"  height="30"/>
- </h3>
 </div>
 
 <div align="left">
-<h3> Contact inoformation: 
+<h3> Contact inoformation: </h3>
+
 <a href="https://www.linkedin.com/in/mehrdad-mohammadian-/"> <img alt="mehrdad mohammadian linkedin" width="25"  height="25" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/linkedin.png" /></a>
 <a href="https://www.instagram.com/mehrdad.dev"><img alt="mehrdad mohammadian instagram" width="25"  height="25"  src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/instagram.png" /></a>	
 <a href="https://mehrdad-dev.ir"><img alt="mehrdad mohammadian pesonal website resume cv" width="25"  height="25"  src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/website.png" /></a>	 
-</h3>
 </div>
 
 <div align="center">
