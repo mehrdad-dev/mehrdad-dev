@@ -14,7 +14,7 @@
 </div>
 
 <div align="left">
-<h3> Contact inoformation: </h3>
+<h3> Be in touch with me: </h3>
 
 <a href="https://www.linkedin.com/in/mehrdad-mohammadian-/"> <img alt="mehrdad mohammadian linkedin" width="25"  height="25" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/linkedin.png" /></a>
 <a href="https://www.instagram.com/mehrdad.dev"><img alt="mehrdad mohammadian instagram" width="25"  height="25"  src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/instagram.png" /></a>	
@@ -23,7 +23,7 @@
 </div>
 
 <div align="left">
-<h3> My contribution status </h3>
+<h3> Contribution status </h3>
    
 <img alt="mehrdad mohammadian" height="165"  src="https://github-readme-stats.vercel.app/api?username=mehrdad-dev&show_icons=true&theme=flag-india&border_radius=25" />
 <img alt="mehrdad mohammadian" height="165"  src="https://github-readme-streak-stats.herokuapp.com?user=mehrdad-dev&hide_border=true&fire=DD2727" /> 
