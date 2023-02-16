@@ -3,6 +3,12 @@
 </h1>
 
 <div align="left">
+<h3> Publication:</h3>
+</div>
+   
+- Persis: A persian font recognition pipeline using convolutional neural network. [[paper](https://ieeexplore.ieee.org/document/9960037)] [[repo](https://github.com/mehrdad-dev/persis)] (First author)
+
+<div align="left">
 <h3> Tools that I try to learn & use:  </h3>
 <img title="Python" alt="Python mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/python.svg" width="30" height="30" />
 <img alt="cplusplus mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/cplusplus.svg" width="30" height="30"/>	
