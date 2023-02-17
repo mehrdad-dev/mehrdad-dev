@@ -6,7 +6,7 @@
 <h3> Publication:</h3>
 </div>
    
-- Persis: A persian font recognition pipeline using convolutional neural network. [[paper](https://ieeexplore.ieee.org/document/9960037)] [[repo](https://github.com/mehrdad-dev/persis)] (First author)
+- Persis: A persian font recognition pipeline using convolutional neural networks. [[paper](https://ieeexplore.ieee.org/document/9960037)] [[repo](https://github.com/mehrdad-dev/persis)] (First author)
 
 <div align="left">
 <h3> Tools that I try to learn & use:  </h3>
