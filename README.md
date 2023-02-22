@@ -9,7 +9,7 @@
 - Persis: A persian font recognition pipeline using convolutional neural networks. [[paper](https://ieeexplore.ieee.org/document/9960037)] [[repo](https://github.com/mehrdad-dev/persis)] (First author)
 
 <div align="left">
-<h3> Tools that I try to learn & use:  </h3>
+<h3> Tools & technologies:  </h3>
 <img title="Python" alt="Python mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/python.svg" width="30" height="30" />
 <img alt="cplusplus mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/cplusplus.svg" width="30" height="30"/>	
 <img alt="tensorflow mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/tensorflow.svg" width="30" height="30"/>	
