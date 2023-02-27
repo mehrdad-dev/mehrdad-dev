@@ -32,6 +32,15 @@
 <!-- <a href="https://www.instagram.com/mehrdad.dev"><img alt="mehrdad mohammadian instagram" width="25"  height="25"  src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/instagram.png" /></a>	 -->
 </div>
 
+
+<div align="left">
+<h3> Support: </h3>
+   
+[Buy me a coffee ☕️](https://buymeacoffee.com/mehrdaddev)
+   
+[برام یک قهوه بخر ☕️](http://coffeete.ir/mehrdad-dev)
+</div>
+
 <div align="left">
 <h3> Contribution status </h3>
    
@@ -48,12 +57,12 @@
  <a href="https://twitter.com/mehrdad_dev"> <img alt="mehrdad mohammadian twitter" width="35px" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/twitter.png" /> </a> -->
  
  
-<div align="left">
+<!-- <div align="left">
 <a href="https://www.buymeacoffee.com/mehrdaddev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 135px !important;" ></a>
 
 <a href="http://www.coffeete.ir/mehrdad-dev">
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:140px;" />
 </a>
-</div>
+</div> -->
 
 
