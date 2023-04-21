@@ -33,16 +33,16 @@
 </div>
 
 
-<div align="left">
+<!-- <div align="left">
 <h3> Support: </h3>
    
 [Buy me a coffee ☕️](https://buymeacoffee.com/mehrdaddev)
    
 [برام یک قهوه بخر ☕️](http://coffeete.ir/mehrdad-dev)
-</div>
+</div> -->
 
 <div align="left">
-<h3> Contribution status </h3>
+<h3> Contribution status: </h3>
    
 <img alt="mehrdad mohammadian" height="165"  src="https://github-readme-stats.vercel.app/api?username=mehrdad-dev&show_icons=true&theme=flag-india&border_radius=25" />
 <img alt="mehrdad mohammadian" height="165"  src="https://github-readme-streak-stats.herokuapp.com?user=mehrdad-dev&hide_border=true&fire=DD2727" /> 
