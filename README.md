@@ -3,11 +3,12 @@
 </h1>
 
 <div align="left">
-<h3> Publication:</h3>
+<h3> Publications:</h3>
 </div>
 
 - Battle of the Wordsmiths: Comparing ChatGPT, GPT-4, Claude, and Bard. [[preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4476855)]
-- Persis: A persian font recognition pipeline using convolutional neural networks. [[paper](https://ieeexplore.ieee.org/document/9960037)] [[repo](https://github.com/mehrdad-dev/persis)] (First author)
+[[repo](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths)]
+- Persis: A persian font recognition pipeline using convolutional neural networks. [[paper](https://ieeexplore.ieee.org/document/9960037)] [[repo](https://github.com/mehrdad-dev/persis)]
 
 <div align="left">
 <h3> Tools & technologies:  </h3>
