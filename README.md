@@ -3,14 +3,6 @@
 </h1>
 
 <div align="left">
-<h3> Publications:</h3>
-</div>
-
-- Battle of the Wordsmiths: Comparing ChatGPT, GPT-4, Claude, and Bard. [[preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4476855)]
-[[repo](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths)] [[ResearchGate](https://www.researchgate.net/publication/371846888_Battle_of_the_Wordsmiths_Comparing_ChatGPT_GPT-4_Claude_and_Bard)]
-- Persis: A persian font recognition pipeline using convolutional neural networks. [[paper](https://ieeexplore.ieee.org/document/9960037)] [[repo](https://github.com/mehrdad-dev/persis)] [[ResearchGate](https://www.researchgate.net/publication/365864412_Persis_A_Persian_Font_Recognition_Pipeline_Using_Convolutional_Neural_Networks)]
-
-<div align="left">
 <h3> Tools & technologies:  </h3>
 <img title="Python" alt="Python mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/python.svg" width="30" height="30" />
 <img alt="cplusplus mehrdad mohammadian" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/cplusplus.svg" width="30" height="30"/>	
