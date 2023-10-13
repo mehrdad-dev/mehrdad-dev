@@ -14,7 +14,7 @@
 </div>
 
 <div align="left">
-<h3> Be in touch: </h3>
+<h3> Profiles: </h3>
 
 <a href="https://www.researchgate.net/profile/Mehrdad-Mohammadian-3"> <img alt="mehrdad mohammadian linkedin" width="25"  height="25" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/rg.png" /></a>
 <a href="https://scholar.google.com/citations?user=oVnfWYQAAAAJ&hl=en"> <img alt="mehrdad mohammadian linkedin" width="25"  height="25" src="https://raw.githubusercontent.com/mehrdad-dev/mehrdad-dev/main/Google_Scholar_logo.png" /></a>
